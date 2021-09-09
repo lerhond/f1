@@ -43,6 +43,8 @@ jspm_packages
 /public/download/*.ics
 /public/download/*/*.ics
 
+scripts/schedule.txt
+
 .idea
 .idea/*
 /.env.local
