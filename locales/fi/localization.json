@@ -1,6 +1,8 @@
 {
     "date": "Päivämäärä",
     "time": "Aika",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "TBC",
         "tbc_title": "Vahvistetaan myöhemmin",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Emilia-Romagnan GP (Imola)",
         "sakhir-grand-prix": "Bahrainin GP",
         "turkish-grand-prix": "Turkin GP",
-        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Lisää osakilpailujen aikataulut kalenteriin",
         "email": "Vastaanota muistutuksia sähköpostiin",
         "timezonePicker": {

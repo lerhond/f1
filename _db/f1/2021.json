@@ -260,11 +260,11 @@
 			"slug": "turkish-grand-prix",
 			"localeKey": "turkish-grand-prix",
 			"sessions": {
-				"fp1" : "2021-10-08T09:30:00Z",
-				"fp2" : "2021-10-08T13:00:00Z",
-				"fp3" : "2021-10-09T10:00:00Z",
-				"qualifying" : "2021-10-09T13:00:00Z",
-				"gp" : "2021-10-10T13:00:00Z"
+				"fp1" : "2021-10-08T08:30:00Z",
+				"fp2" : "2021-10-08T12:00:00Z",
+				"fp3" : "2021-10-09T09:00:00Z",
+				"qualifying" : "2021-10-09T12:00:00Z",
+				"gp" : "2021-10-10T12:00:00Z"
 			}
 		},
 		{
@@ -294,10 +294,10 @@
 			"localeKey": "mexico-grand-prix",
 			"affiliate": "https://motorsporttickets.com/en-gb/f1/mexico/tickets?af=165390",
 			"sessions": {
-				"fp1": "2021-11-05T16:30:00Z",
-				"fp2": "2021-11-05T20:00:00Z",
-				"fp3": "2021-11-06T16:00:00Z",
-				"qualifying": "2021-11-06T19:00:00Z",
+				"fp1": "2021-11-05T17:30:00Z",
+				"fp2": "2021-11-05T21:00:00Z",
+				"fp3": "2021-11-06T17:00:00Z",
+				"qualifying": "2021-11-06T20:00:00Z",
 				"gp": "2021-11-07T19:00:00Z"
 			}
 		},
@@ -311,28 +311,27 @@
 			"localeKey": "brazilian-grand-prix",
 			"affiliate": "https://motorsporttickets.com/en-gb/f1/brazil/tickets?af=165390",
 			"sessions": {
-				"fp1": "2021-11-12T14:30:00Z",
-				"fp2": "2021-11-12T18:00:00Z",
-				"fp3": "2021-11-13T15:00:00Z",
-				"qualifying": "2021-11-13T18:00:00Z",
+				"fp1": "2021-11-12T15:30:00Z",
+				"qualifying": "2021-11-12T19:00:00Z",
+				"fp2": "2021-11-13T15:00:00Z",
+				"sprintQualifying": "2021-11-13T19:30:00Z",
 				"gp": "2021-11-14T17:00:00Z"
 			}
 		},
 		{
-			"name": "TBC",
-			"location": "TBC",
-			"latitude": -37.8373,
-			"longitude": 144.9666,
+			"name": "Qatar",
+			"location": "Doha",
+			"latitude": 25.490292,
+			"longitude": 51.453030,
 			"round": 20,
-			"tbc": true,
-			"slug": "tbc-grand-prix",
-			"localeKey": "tbc-grand-prix",
+			"slug": "qatar-grand-prix",
+			"localeKey": "qatar-grand-prix",
 			"sessions": {
-				"fp1": "2021-11-19T01:30:00Z",
-				"fp2": "2021-11-19T05:00:00Z",
-				"fp3": "2021-11-20T03:00:00Z",
-				"qualifying": "2021-11-20T06:00:00Z",
-				"gp": "2021-11-21T06:00:00Z"
+				"fp1": "2021-11-19T10:30:00Z",
+				"fp2": "2021-11-19T14:00:00Z",
+				"fp3": "2021-11-20T11:00:00Z",
+				"qualifying": "2021-11-20T14:00:00Z",
+				"gp": "2021-11-21T14:00:00Z"
 			}
 		},
 		{
@@ -344,11 +343,11 @@
 			"slug": "saudi-arabia-grand-prix",
 			"localeKey": "saudi-arabia-grand-prix",
 			"sessions": {
-				"fp1": "2021-12-03T12:30:00Z",
-				"fp2": "2021-12-03T16:00:00Z",
-				"fp3": "2021-12-04T13:00:00Z",
+				"fp1": "2021-12-03T13:30:00Z",
+				"fp2": "2021-12-03T17:00:00Z",
+				"fp3": "2021-12-04T14:00:00Z",
 				"qualifying": "2021-12-04T16:00:00Z",
-				"gp": "2021-12-05T16:00:00Z"
+				"gp": "2021-12-05T17:30:00Z"
 			}
 		},
 		{

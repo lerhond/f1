@@ -1,6 +1,8 @@
 {
     "date": "Dátum",
     "time": "Idő",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "Nem megerősített",
         "tbc_title": "Nem megerősített",
@@ -62,9 +64,12 @@
         "emilia-romagna-grand-prix": "Emilia Romagna Nagydíj",
         "sakhir-grand-prix": "Szakhír (Bahreini) Nagydíj",
         "turkish-grand-prix": "Török Nagydíj",
-        "saudi-arabia-grand-prix": "Szaúd-Arábiai Nagydíj"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Szaúd-Arábiai Nagydíj",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Futam időpontok hozzáadása a saját Naptárhoz",
         "email": "E-mail emlékeztetők kérése",
         "timezonePicker": {

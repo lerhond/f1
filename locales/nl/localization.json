@@ -1,6 +1,8 @@
 {
     "date": "Datum",
     "time": "Tijd",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "TB",
         "tbc_title": "Te beslissen",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Emilia Romagna Grand Prix",
         "sakhir-grand-prix": "Sakhir (Bahrain) Grand Prix",
         "turkish-grand-prix": "Turkish Grand Prix",
-        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Voeg deze race datums en starttijden toe aan je kalender",
         "email": "Ontvang herinneringen via email",
         "timezonePicker": {

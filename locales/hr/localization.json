@@ -1,6 +1,8 @@
 {
     "date": "Datum",
     "time": "Vrijeme",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "TBC",
         "tbc_title": "Bit će potvrđeno",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Velika nagrada Emilije Romagne (Italija)",
         "sakhir-grand-prix": "Velika nagrada Sakhira (Bahrain)",
         "turkish-grand-prix": "Velika nagrada Turske",
-        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Dodajte ove datume utrka na vaš kalendar",
         "email": "Primi e-mail podsjetnik",
         "timezonePicker": {

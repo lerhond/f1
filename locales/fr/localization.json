@@ -1,6 +1,8 @@
 {
     "date": "Date",
     "time": "Heure",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "TBC",
         "tbc_title": "A confirmer",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Grand Prix d'Émilie-Romagne",
         "sakhir-grand-prix": "Grand Prix de Sakhir (Bahrein)",
         "turkish-grand-prix": "Grand Prix de Turquie",
-        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Saudi Arabian Grand Prix",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Ajouter ces dates et horaires de Grand Prix à votre calendrier.",
         "email": "Recevoir des e-mails de rappel",
         "timezonePicker": {

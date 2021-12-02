@@ -1,6 +1,8 @@
 {
     "date": "Дата",
     "time": "Время",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "Не подтверждён",
         "tbc_title": "Не подтверждён",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Гран-при Эмилии-Романьи",
         "sakhir-grand-prix": "Гран-при Сахира (Бахрейна)",
         "turkish-grand-prix": "Гран-при Турции",
-        "saudi-arabia-grand-prix": "Гран-при Саудовской Аравии"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Гран-при Саудовской Аравии",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Добавить расписание гонок в Календарь",
         "email": "Напоминания по электронной почте",
         "timezonePicker": {

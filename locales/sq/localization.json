@@ -1,6 +1,8 @@
 {
     "date": "Data",
     "time": "Koha",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "TBC",
         "tbc_title": "Pritet konfirmimi",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "Çmimi i Madh i Emilia Romagna",
         "sakhir-grand-prix": "Çmimi i Madh i Sakhir (Bahrain)",
         "turkish-grand-prix": "Çmimi i Madh i Turqisë",
-        "saudi-arabia-grand-prix": "Çmimi i Madh i Arabisë Saudite"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "Çmimi i Madh i Arabisë Saudite",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "Shtoni oraret e këtyre garave në kalendarin tuaj",
         "email": "Prano përkujtime përmes email",
         "timezonePicker": {

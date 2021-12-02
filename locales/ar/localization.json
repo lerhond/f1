@@ -1,6 +1,8 @@
 {
     "date": "التاريخ",
     "time": "الوقت",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "يتم تأكيده",
         "tbc_title": "يتم تأكيده",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "جائزة اميليا رومانيا الكبري",
         "sakhir-grand-prix": "جائزة صخير (البحرين) الكبري",
         "turkish-grand-prix": "جائزة تركيا الكبري",
-        "saudi-arabia-grand-prix": "جائزة السعودية الكبري"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "جائزة السعودية الكبري",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "اضف مواعيد السباقات الي تقويمك",
         "email": "استقبل اشعارات عبر البريد الإلكتروني",
         "timezonePicker": {

@@ -1,6 +1,8 @@
 {
     "date": "日期",
     "time": "时间",
+    "showPreviousRaces": "Show Previous Races",
+    "hidePreviousRaces": "Hide Previous Races",
     "badges": {
         "tbc": "待定",
         "tbc_title": "待确认",
@@ -63,9 +65,12 @@
         "emilia-romagna-grand-prix": "艾米利亚-罗马涅 (意大利) 大奖赛",
         "sakhir-grand-prix": "萨基尔 (巴林) 大奖赛",
         "turkish-grand-prix": "土耳其大奖赛",
-        "saudi-arabia-grand-prix": "沙特阿拉伯大奖赛"
-    },
-    "options": {
+        "saudi-arabia-grand-prix": "沙特阿拉伯大奖赛",
+        "qatar-grand-prix" : "Qatar Grand Prix",
+		"canadian-grand-prix" : "Canadian Grand Prix",
+		"miami-grand-prix" : "Miami Grand Prix"
+	},
+	"options": {
         "calendar": "在你的日历App中添加赛程信息",
         "email": "接受邮件提醒",
         "timezonePicker": {
